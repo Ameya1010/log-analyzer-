@@ -1,0 +1,10 @@
+2026-05-27 10:15:23 INFO Server started successfully
+2026-05-27 10:16:01 INFO User login successful - user: apurva
+2026-05-27 10:17:45 WARNING Disk usage reached 80%
+2026-05-27 10:18:12 ERROR Database connection timeout
+2026-05-27 10:19:30 INFO File uploaded successfully - report.pdf
+2026-05-27 10:20:55 ERROR Failed login attempt from IP 192.168.1.15
+2026-05-27 10:22:10 INFO API request completed - status 200
+2026-05-27 10:23:44 WARNING High memory usage detected
+2026-05-27 10:24:20 INFO User logout successful - user: apurva
+2026-05-27 10:25:00 ERROR Payment gateway service unavailable
